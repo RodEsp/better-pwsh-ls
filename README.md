@@ -6,7 +6,7 @@ This module exports a function, `ll`, that provides an enhanced directory listin
 
 ## Installation
 
-This module can be installed from the [PowerShell Gallery](https://www.powershellgallery.com/packages/better-ls/) witht he follwing command:
+This module can be installed from the [PowerShell Gallery](https://www.powershellgallery.com/packages/better-ls/) with the follwing command:
 
 ```pwsh
 Install-Module -Name better-ls
